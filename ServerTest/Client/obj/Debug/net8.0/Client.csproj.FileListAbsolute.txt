@@ -1,0 +1,14 @@
+C:\Users\apk13\Documents\VSProject\ServerTest\Client\bin\Debug\net8.0\Client.exe
+C:\Users\apk13\Documents\VSProject\ServerTest\Client\bin\Debug\net8.0\Client.deps.json
+C:\Users\apk13\Documents\VSProject\ServerTest\Client\bin\Debug\net8.0\Client.runtimeconfig.json
+C:\Users\apk13\Documents\VSProject\ServerTest\Client\bin\Debug\net8.0\Client.dll
+C:\Users\apk13\Documents\VSProject\ServerTest\Client\bin\Debug\net8.0\Client.pdb
+C:\Users\apk13\Documents\VSProject\ServerTest\Client\obj\Debug\net8.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apk13\Documents\VSProject\ServerTest\Client\obj\Debug\net8.0\Client.AssemblyInfoInputs.cache
+C:\Users\apk13\Documents\VSProject\ServerTest\Client\obj\Debug\net8.0\Client.AssemblyInfo.cs
+C:\Users\apk13\Documents\VSProject\ServerTest\Client\obj\Debug\net8.0\Client.csproj.CoreCompileInputs.cache
+C:\Users\apk13\Documents\VSProject\ServerTest\Client\obj\Debug\net8.0\Client.dll
+C:\Users\apk13\Documents\VSProject\ServerTest\Client\obj\Debug\net8.0\refint\Client.dll
+C:\Users\apk13\Documents\VSProject\ServerTest\Client\obj\Debug\net8.0\Client.pdb
+C:\Users\apk13\Documents\VSProject\ServerTest\Client\obj\Debug\net8.0\Client.genruntimeconfig.cache
+C:\Users\apk13\Documents\VSProject\ServerTest\Client\obj\Debug\net8.0\ref\Client.dll
